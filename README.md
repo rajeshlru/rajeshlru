@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-<marquee behavior="scroll" direction="left" scrollamount="6">
-💻 Building elegant web interfaces with React.js, React Native & Tailwind CSS | 🌐 Creating robust backends with Node.js, Express & MongoDB | 🤖 Exploring ML & NLP
-</marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=22&duration=2000&pause=800&color=00FF9F&background=00000000&center=true&vCenter=true&width=1250&lines=💻+Full-Stack+Developer+who+loves+to+build,+break,+and+rebuild;💡+Creating+interactive+web+and+mobile+experiences+with+React,+React+Native,+and+TailwindCSS;⚙️+Architecting+scalable+servers+with+Node.js,+Express,+and+MongoDB;☁️+Integrating+Firebase,+APIs,+and+cloud+services+for+modern+apps;🧠+Writing+clean,+efficient,+and+reliable+code+that+tells+a+story;🛠️+Contributing+to+open-source+and+Hackathon+projects;🚀+Always+learning,+innovating,+and+exploring+new+tech;✨+Turning+ideas+into+impactful+digital+realities" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
