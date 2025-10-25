@@ -1,15 +1,12 @@
 <!-- HEADER -->
 <p>
   <h1 align="center" style="font-size: 2.4rem; color: #00FF9F;">Hi 👋, I'm Rajesh Elluru</h1>
-  <h4 align="center" style="color: #A9B2C3;">I’m a passionate Full-Stack MERN Developer exploring the worlds of Frontend, Backend, and Data Science.</h4>
 </p>
-
-<hr style="border: 1px solid #00FF9F; width: 80%; margin: auto;"/>
 
 <!-- WHO I AM -->
 <h3  style="color:#00FF9F;">💼 Who I Am</h3>
-<p align="center" style="font-size: 1.1rem; color:#C0C8D3;">
-  <b>Frontend Developer | Backend Developer | Data Science Enthusiast</b>
+<p >
+  <h3  align="center" style="font-size: 12.1rem; color:#C0C8D3";>Frontend Developer | Backend Developer | Data Science Enthusiast</h3>
 </p>
 
 <!-- TYPING ANIMATION -->
