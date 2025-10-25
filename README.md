@@ -47,8 +47,6 @@
   <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55" style="margin:8px;"/></a>
   <a href="https://en.cppreference.com/w/c"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="55" height="55" style="margin:8px;"/></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://github.com/rajeshlru"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="55" height="55" style="margin:8px;"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="margin:8px;"/></a>
   <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55" style="margin:8px;"/></a>
 </p>
