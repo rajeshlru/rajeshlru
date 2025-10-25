@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hi 👋, I'm Rajesh Elluru</h1>
-  I’m a passionate <b>Full-Stack MERN Developer</b> exploring the worlds of <b>Frontend, Backend, and Data Science</b>.
+  <b>I’m a passionate Full-Stack MERN Developer exploring the worlds of Frontend, Backend, and Data Science.</b>
 </p>
 
 ---
