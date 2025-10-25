@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>Hi 👋, I'm Rajesh Elluru</h1>
-  <b>I’m a passionate Full-Stack MERN Developer exploring the worlds of Frontend, Backend, and Data Science.</b>
+<p >
+  <h1 align="center">Hi 👋, I'm Rajesh Elluru</h1>
+  <h4 align="center">I’m a passionate Full-Stack MERN Developer exploring the worlds of Frontend, Backend, and Data Science.</h4>
 </p>
 
 ---
@@ -27,7 +27,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="50" height="50"/>
   </a>
   <a href="https://github.com/rajeshlru">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   </a>
 </p>
 
@@ -50,7 +50,9 @@
   <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
   <a href="https://en.cppreference.com/w/c"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
+  <a href="https://github.com/rajeshlru">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  </a>
   <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/></a>
   <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/></a>
