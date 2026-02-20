@@ -1,89 +1,119 @@
-<!-- HEADER -->
-<p>
-  <h1 align="center" style="font-size: 2.4rem; color: #00FF9F;">Hi 👋, I'm Rajesh Elluru</h1>
-</p>
+<!-- ==================== HEADER ==================== -->
 
-<!-- WHO I AM -->
-<h3  style="color:#00FF9F;">💼 Who I Am</h3>
-<p >
-  <h3  align="center" style="font-size: 12.1rem; color:#C0C8D3";>Frontend Developer | Backend Developer | Data Science Enthusiast</h3>
-</p>
+<h1 align="center">
+  Hey 👋 I'm Rajesh Elluru
+</h1>
 
-<!-- TYPING ANIMATION -->
+<h3 align="center">
+  🚀 Full Stack Developer | ☁️ Cloud Learner | 🧠 Data Science Explorer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=22&duration=2000&pause=800&color=00FF9F&background=00000000&center=true&vCenter=true&width=1250&lines=💻+Full-Stack+Developer+who+loves+to+build,+break,+and+rebuild;💡+Creating+interactive+web+and+mobile+experiences+with+React,+React+Native,+and+TailwindCSS;⚙️+Architecting+scalable+servers+with+Node.js,+Express,+and+MongoDB;☁️+Integrating+Firebase,+APIs,+and+cloud+services+for+modern+apps;🧠+Writing+clean,+efficient,+and+reliable+code+that+tells+a+story;🛠️+Contributing+to+open-source+and+Hackathon+projects;🚀+Always+learning,+innovating,+and+exploring+new+tech;✨+Turning+ideas+into+impactful+digital+realities" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=rajeshlru&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<hr style="border: 1px solid #00FF9F; width: 80%; margin: auto;"/>
+---
 
-<!-- CONNECT WITH ME -->
-<h3 style="color:#00FF9F;">🌐 Connect With Me</h3>
+# 💫 About Me
+
+```diff
++ 💻 I build scalable MERN applications
++ ⚡ I love breaking and rebuilding systems
++ 🧠 Exploring Machine Learning & NLP
++ ☁️ Learning Cloud & System Design
++ 🏆 Hackathon Enthusiast
+```
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rajesh-elluru-97ba6b356/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin:10px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
   <a href="mailto:rajeshelluru143@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="50" height="50" style="margin:10px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
   <a href="https://github.com/rajeshlru">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" style="margin:10px;"/>
+    <img src="https://skillicons.dev/icons?i=github" height="55"/>
   </a>
 </p>
 
-<hr style="border: 1px solid #00FF9F; width: 80%; margin: auto;"/>
+---
 
-<!-- TECH STACK -->
-<h3 style="color:#00FF9F;">💻 Tech Stack</h3>
+# 🛠 Tech Arsenal
+
 <p align="center">
-  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://www.mongodb.com/products/compass"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Compass" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="margin:8px;"/></a>
-  <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="55" height="55" style="margin:8px;"/></a>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nodejs,mongodb,python,java,c,git,vscode,postman,firebase,redux,express" />
 </p>
 
-<hr style="border: 1px solid #00FF9F; width: 80%; margin: auto;"/>
+---
 
-<!-- GITHUB ACHIEVEMENTS -->
-<h3 style="color:#00FF9F;">🏆 GitHub Achievements</h3>
-<p align="center" style="color:#C0C8D3;">
-  🦈 <b>Pull Shark</b> – Active contributions and PRs on GitHub<br>
-  🎉 <b>YOYO</b> – Fun, consistent contributions and streak achievements
-</p>
+# 📊 GitHub Power Stats
 
-<hr style="border: 1px solid #00FF9F; width: 80%; margin: auto;"/>
-
-<!-- GITHUB STATS -->
-<h style="color:#00FF9F;">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshlru&show_icons=true&theme=radical" alt="GitHub Stats" style="margin:10px;"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshlru&layout=compact&theme=radical" alt="Top Languages" style="margin:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshlru&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=rajeshlru&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<hr style="border: 1px solid #00FF9F; width: 80%; margin: auto;"/>
-
-<!-- CURRENTLY WORKING ON -->
-<h3 style="color:#00FF9F;">🧪 Currently Working On</h3>
-<p align="center" style="color:#C0C8D3; font-size: 1.05rem;">
-  🛠 Full-stack MERN projects to solve real-world problems<br>
-  🤖 Learning and experimenting with Machine Learning & NLP integration<br>
-  📱 Cross-platform apps with React Native<br>
-  ⚙️ Participating in Hackathons and Open-source Projects<br>
-  🚀 Preparing to contribute to professional projects and internships
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshlru&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<hr style="border: 1px solid #00FF9F; width: 80%; margin: auto;"/>
+---
 
-<!-- FOOTER -->
-<p align="center" style="font-style: italic; color:#A9B2C3;">
-  “Code is not just what I do; it’s how I think.” — Always learning, building, and innovating!
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajeshlru&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake (Game Mode)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajeshlru/rajeshlru/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshlru&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Currently Building
+
+- 🧩 Smart Attendance Intelligence SaaS
+- 🏗 Advanced MERN Projects
+- 🤖 ML + NLP Integrated Applications
+- ☁️ Cloud Deployment Architectures
+- 📱 Cross-platform apps with React Native
+
+---
+
+# 🎮 Fun Section
+
+```yaml
+Current_Mode: Building
+Energy_Level: High 🔥
+Focus: System Design + Scalable Backend
+Mission: Become Elite Full Stack Engineer
+```
+
+---
+
+# 💡 Quote
+
+> "Code is not what I write. It’s how I think."
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star!
 </p>
