@@ -35,7 +35,7 @@
 
 ---
 
-# 🧠 Engineering Domains
+# 🧠 Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,firebase,python,java,c,aws,docker,git,vscode" />
