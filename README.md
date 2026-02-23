@@ -57,7 +57,6 @@ MongoDB • Firebase
 Scalable full-stack apps  
 Modern UI systems  
 Reusable architecture  
-
 </td>
 
 <td align="center" width="33%">
